@@ -1,0 +1,44 @@
+@media (max-width:991px) {
+  
+    }
+    
+    @media (max-width: 767px) {
+        .api-wrapper #content{
+            margin-left: 0;
+        }
+        form .main-btn2{
+            margin-right: 0;
+        }
+        form .form-check{
+            margin-right: 0;
+        }
+        .Susisiekite-wrapper .img {
+            padding-left: 0;
+            font-size: xx-small;
+        }
+        .curve2{
+            margin-top: -69px;
+        }  
+        .about-wrapper{
+            margin-top: -19px;
+        }
+        .footer-wrapper .d-flex{
+            justify-content: center;
+        }
+        .footer-wrapper  hr{
+            margin: 10px auto;
+        }
+        .footer-wrapper .col-md-3{
+            text-align-last:center ;
+        }
+    } 
+    @media (max-width:421px) {
+        #text1 .call{
+          font-size:10px ;
+        }
+    }   
+    @media (max-width:337px) {
+        #text1 .call{
+          font-size:5px ;
+        }
+    }   
